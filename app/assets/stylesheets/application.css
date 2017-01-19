@@ -26,6 +26,7 @@
 
 .navBar > h2 {
   display: inline-block;
+  font-family: 'Alegreya Sans SC';font-size: 22px;
 }
 
 a {
