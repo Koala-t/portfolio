@@ -54,3 +54,17 @@ a:visited {
 a:hover {
   color: #889DB3;
 }
+
+.personalBio {
+  padding-top: 170px;
+}
+
+.headshot {
+  width: 300px;
+  margin: auto;
+}
+
+.headshot > img {
+  border-radius: 50%;
+  width: 100%;
+}
