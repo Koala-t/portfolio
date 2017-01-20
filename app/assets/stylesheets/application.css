@@ -26,7 +26,6 @@
 .navBar {
   background-color: #636363;
   color: white;
-  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
   text-align: center;
   padding-top: 1.5em;
   padding-bottom: 0.1em;
@@ -53,4 +52,28 @@ a:visited {
 
 a:hover {
   color: #889DB3;
+}
+
+.personalBio {
+  padding-top: 15%;
+  padding-bottom: 13%;
+  width: 95%;
+  margin: auto;
+  border-bottom: 2px solid #889DB3;
+}
+
+.headshot {
+  width: 300px;
+  margin: auto;
+}
+
+.headshot > img {
+  border-radius: 50%;
+  width: 100%;
+}
+
+.name, .story {
+  color: white;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  text-align: center;
 }
