@@ -68,3 +68,9 @@ a:hover {
   border-radius: 50%;
   width: 100%;
 }
+
+.name, .story {
+  color: white;
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  text-align: center;
+}
