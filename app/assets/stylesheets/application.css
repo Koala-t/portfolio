@@ -78,6 +78,30 @@ a:hover {
   text-align: center;
 }
 
-.employer > div {
+.employer {
   color: white;
+  display: inline-block;
+  width: 45%;
+  margin: 2%;
+}
+
+.employer_image {
+  display: block;
+  width: 300px;
+  margin: 0 auto;
+}
+
+#maxPlanckLogo {
+  border: 20px solid white;
+  width:260px;
+}
+
+.employer_title, .employer_description {
+  margin: auto;
+  text-align: center;
+}
+
+.position_title, .position_description {
+  width: 70%;
+  margin: auto;
 }
