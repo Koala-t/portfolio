@@ -83,6 +83,7 @@ a:hover {
   display: inline-block;
   width: 45%;
   margin: 2%;
+  vertical-align: top;
 }
 
 .employer_image {
