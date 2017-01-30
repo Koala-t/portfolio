@@ -78,7 +78,7 @@ a:hover {
   text-align: center;
 }
 
-.employer {
+.employer, .school {
   color: white;
   display: inline-block;
   width: 45%;
@@ -86,7 +86,7 @@ a:hover {
   vertical-align: top;
 }
 
-.employer_image {
+.employer_image, .school_image {
   display: block;
   width: 300px;
   margin: 0 auto;
@@ -97,7 +97,7 @@ a:hover {
   width:260px;
 }
 
-.employer_title, .employer_description {
+.employer_title, .employer_description, .school_title, .school_description, .major {
   margin: auto;
   text-align: center;
 }
