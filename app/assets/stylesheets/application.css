@@ -63,13 +63,14 @@ a:hover {
 }
 
 .headshot {
-  width: 300px;
+  width: 150px;
   margin: auto;
 }
 
 .headshot > img {
   border-radius: 50%;
   width: 100%;
+  height: 150px;
 }
 
 .sectionHeading, .story {
