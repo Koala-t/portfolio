@@ -10,7 +10,6 @@
 .project {
   font-family: 'Alegreya Sans SC';font-size: 22px;
   color: white;
-  border-bottom: 2px solid #889DB3;
   padding: 10%;
 }
 
@@ -26,6 +25,10 @@
 .project_image_container {
   width: 25%;
   padding-top: 1em;
+}
+
+hr {
+  width: 80%;
 }
 
 .project_image {
