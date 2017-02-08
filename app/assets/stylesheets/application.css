@@ -19,10 +19,6 @@
   margin: 0px;
  }
 
- * {
-  background-color: black;
- }
-
 .navBar {
   background-color: #636363;
   color: white;
@@ -57,9 +53,10 @@ a:hover {
 .personalBio {
   padding-top: 15%;
   padding-bottom: 13%;
-  width: 95%;
   margin: auto;
   border-bottom: 2px solid #889DB3;
+  background-image: url(http://media.istockphoto.com/photos/old-oak-background-picture-id490078430?k=6&m=490078430&s=170667a&w=0&h=btWp4TAjljy5nUgd0LtJ9ghAu1aJGuatTrfPqnzaiiA=);
+  background-size: 100% 100%;
 }
 
 .headshot {
