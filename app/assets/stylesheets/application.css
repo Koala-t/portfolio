@@ -76,6 +76,10 @@ a:hover {
   text-align: center;
 }
 
+.background {
+  background-color: #3F1612;
+}
+
 .employer, .school {
   color: white;
   display: inline-block;
