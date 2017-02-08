@@ -10,11 +10,16 @@
 .project {
   font-family: 'Alegreya Sans SC';font-size: 22px;
   color: white;
-  border-bottom: 2px solid #889DB3;
+  padding: 10%;
 }
 
 .projectGallery, .background {
   padding-top: 5em;
+  background-color: #162E32;
+}
+
+.projectGallery {
+  border-bottom: 2px solid #889DB3;
 }
 
 .project > div {
@@ -23,8 +28,11 @@
 
 .project_image_container {
   width: 25%;
-  padding-left: 2em;
   padding-top: 1em;
+}
+
+hr {
+  width: 80%;
 }
 
 .project_image {
@@ -45,9 +53,8 @@
 }
 
 .project_summary {
-  width: 60%;
-  padding-right: 2em;
+  width: 64%;
   padding-top: 0;
-  margin-left: 2em;
+  margin-left: 10%;
   vertical-align: top;
 }

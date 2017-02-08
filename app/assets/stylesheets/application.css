@@ -19,12 +19,7 @@
   margin: 0px;
  }
 
- * {
-  background-color: black;
- }
-
 .navBar {
-  background-color: #636363;
   color: white;
   text-align: center;
   padding-top: 1.5em;
@@ -41,6 +36,7 @@
 
 a {
   background-color: #636363;
+  border-radius: 5px;
   text-decoration: none;
   padding-left: 0.5em;
   padding-right: 0.5em;
@@ -51,31 +47,37 @@ a:visited {
 }
 
 a:hover {
-  color: #889DB3;
+  background-color: #7B8E5C;
 }
 
 .personalBio {
   padding-top: 15%;
   padding-bottom: 13%;
-  width: 95%;
   margin: auto;
   border-bottom: 2px solid #889DB3;
+  background-image: url(http://media.istockphoto.com/photos/old-oak-background-picture-id490078430?k=6&m=490078430&s=170667a&w=0&h=btWp4TAjljy5nUgd0LtJ9ghAu1aJGuatTrfPqnzaiiA=);
+  background-size: 100% 100%;
 }
 
 .headshot {
-  width: 300px;
+  width: 150px;
   margin: auto;
 }
 
 .headshot > img {
   border-radius: 50%;
   width: 100%;
+  height: 150px;
 }
 
 .sectionHeading, .story {
   color: white;
   font-family: Copperplate, "Copperplate Gothic Light", fantasy;
   text-align: center;
+}
+
+.background {
+  background-color: #3F1612;
 }
 
 .employer, .school {
@@ -90,6 +92,7 @@ a:hover {
   display: block;
   width: 300px;
   margin: 0 auto;
+  border-radius: 15px;
 }
 
 #maxPlanckLogo, .school_image {
