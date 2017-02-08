@@ -92,6 +92,7 @@ a:hover {
   display: block;
   width: 300px;
   margin: 0 auto;
+  border-radius: 15px;
 }
 
 #maxPlanckLogo, .school_image {
