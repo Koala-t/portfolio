@@ -92,9 +92,16 @@ a:hover {
   margin: 0 auto;
 }
 
-#maxPlanckLogo {
+#maxPlanckLogo, .school_image {
   border: 20px solid white;
   width:260px;
+  height: 80px;
+}
+
+#CC_logo {
+  height:55px;
+  border-top: 32px solid white;
+  border-bottom: 32px solid white;
 }
 
 .employer_title, .employer_description, .school_title, .school_description, .major {
