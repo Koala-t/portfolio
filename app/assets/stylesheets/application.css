@@ -107,12 +107,17 @@ a:hover {
   border-bottom: 32px solid white;
 }
 
-.employer_title, .employer_description, .school_title, .school_description, .major {
+.employer_title, .position_title, .school_title, .major {
   margin: auto;
   text-align: center;
 }
 
-.position_title, .position_description {
+.position_description {
   width: 70%;
+  margin: auto;
+}
+
+.employer_description, .school_description {
+  width: 80%;
   margin: auto;
 }
