@@ -110,14 +110,29 @@ a:hover {
 .employer_title, .position_title, .school_title, .major {
   margin: auto;
   text-align: center;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 .position_description {
   width: 70%;
   margin: auto;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
 .employer_description, .school_description {
   width: 80%;
   margin: auto;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.logoLinks {
+  background-color: transparent;
+}
+
+.logoLinks:hover {
+  background-color:  transparent;
+}
+
+.logo {
+  width: 3%;
 }
