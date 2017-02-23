@@ -124,3 +124,15 @@ a:hover {
   margin: auto;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
+
+.logoLinks {
+  background-color: transparent;
+}
+
+.logoLinks:hover {
+  background-color:  transparent;
+}
+
+.logo {
+  width: 3%;
+}
